@@ -77,7 +77,6 @@ Users will be given a location on a map in NYC for them to go to and take a pict
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
 <img src="https://github.com/marenas1/codepath-capstone/blob/main/Wireframe.jpeg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
