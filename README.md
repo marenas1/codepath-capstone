@@ -31,11 +31,11 @@ Users will be given a location on a map in NYC for them to go to and take a pict
 
 **Required Must-have Stories**
 
-* Allow users to see a map with the location chosen.
-* Allow users to take a picture using the camera of their device.
-* Allows Users to see posts of others in a tableview format
-* Allow users to post their picture to a tableview of posts. This will include their picture in an imageview followed by username.
-* User posts will be saved in a my posts tab.
+* [ ]Allow users to see a map with the location chosen.
+* [x] Allow users to take a picture using the camera of their device.
+* [x]Allows Users to see posts of others in a tableview format
+* [ ]Allow users to post their picture to a tableview of posts. This will include their picture in an imageview followed by username.
+* [ ]User posts will be saved in a my posts tab.
 
 **Optional Nice-to-have Stories**
 
@@ -65,13 +65,13 @@ Users will be given a location on a map in NYC for them to go to and take a pict
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] [User Posts]
+- [x] [User Posts]
 * [Tab bar on the bottom links to map,picture and myposts]
-- [ ] [Map Tab]
+- [x] [Map Tab]
 * [Tab bar on the bottom links to user posts,picture and myposts]
-- [ ] [Picture Tab]
+- [x] [Picture Tab]
 * [Tab bar on the bottom links to user posts,map and myposts]
-- [ ] [MyPosts Tab]
+- [x] [MyPosts Tab]
 * [Tab bar on the bottom links to user posts,map and picture]
 
 
