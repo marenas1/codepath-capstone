@@ -96,3 +96,12 @@ Users will be given a location on a map in NYC for them to go to and take a pict
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+## Week 9 Progress
+Picture taking works on physical iphone but not on simulator
+<div>
+    <a href="https://www.loom.com/share/262dd4ab82c042af993b079f170a9225">
+    </a>
+    <a href="https://www.loom.com/share/262dd4ab82c042af993b079f170a9225">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/262dd4ab82c042af993b079f170a9225-with-play.gif">
+    </a>
+  </div>
