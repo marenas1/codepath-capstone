@@ -105,9 +105,10 @@ Picture taking works on physical iphone but not on simulator
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/262dd4ab82c042af993b079f170a9225-with-play.gif">
     </a>
   </div>
-  ## Week 10 Progress
+  
+## Week 10 Progress
+Picture taking works and saves. Map including location has been added in the form of an image. Like button works and saves data even if tab is changed. Tableview for user posts has been instantiated.
   <div>
-      Picture taking works and saves. Map including location has been added in the form of an image. Like button works as well as the counter for it. Tableview for user posts has been instantiated.
     <a href="https://www.loom.com/share/a863654ca0a34325b9d7795e028d253f">
     </a>
     <a href="https://www.loom.com/share/a863654ca0a34325b9d7795e028d253f">
