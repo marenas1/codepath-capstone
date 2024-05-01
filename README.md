@@ -31,11 +31,11 @@ Users will be given a location on a map in NYC for them to go to and take a pict
 
 **Required Must-have Stories**
 
-* [ ]Allow users to see a map with the location chosen.
+* [x]Allow users to see a map with the location chosen.
 * [x] Allow users to take a picture using the camera of their device.
 * [x]Allows Users to see posts of others in a tableview format
 * [ ]Allow users to post their picture to a tableview of posts. This will include their picture in an imageview followed by username.
-* [ ]User posts will be saved in a my posts tab.
+* [x]User posts will be saved in a my posts tab.
 
 **Optional Nice-to-have Stories**
 
@@ -103,5 +103,14 @@ Picture taking works on physical iphone but not on simulator
     </a>
     <a href="https://www.loom.com/share/262dd4ab82c042af993b079f170a9225">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/262dd4ab82c042af993b079f170a9225-with-play.gif">
+    </a>
+  </div>
+  ## Week 10 Progress
+  <div>
+      Picture taking works and saves. Map including location has been added in the form of an image. Like button works as well as the counter for it. Tableview for user posts has been instantiated.
+    <a href="https://www.loom.com/share/a863654ca0a34325b9d7795e028d253f">
+    </a>
+    <a href="https://www.loom.com/share/a863654ca0a34325b9d7795e028d253f">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a863654ca0a34325b9d7795e028d253f-with-play.gif">
     </a>
   </div>
